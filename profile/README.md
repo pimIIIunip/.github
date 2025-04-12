@@ -1,67 +1,67 @@
-# **INFINITY WARE - Revolucionando a Mobilidade Urbana com Tecnologia Inteligente**  
-![infinity ware banner](https://github.com/user-attachments/assets/25eda63b-f42d-4f54-a672-7efb523f5cbc)
-*Soluções integradas de bilhetagem eletrônica e suporte técnico com IA para transporte público*  
+# **INFINITYWARE – Inteligência em Soluções Digitais para o Futuro da Tecnologia**  
+![infinityware banner](https://github.com/user-attachments/assets/infinityware-banner-exemplo.png)  
+*Soluções sob medida em software, inteligência artificial e automação de processos corporativos.*
 
 ---
 
-## **📌 Sobre a Infinity Ware**  
-Fundada em 2020, a **PagBuzz** é uma *deep tech* especializada em **sistemas de pagamento e gestão para transporte público**. Nossa missão é **democratizar o acesso à mobilidade urbana** através de tecnologia confiável e inovação disruptiva.  
+## **📌 Sobre a InfinityWare**  
+Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de software especializada em **soluções digitais inteligentes para o setor corporativo**. Nossa missão é **entregar tecnologia de ponta com agilidade, segurança e inovação**, conectando empresas aos desafios da nova era digital.
 
 ### **🔍 Dados Corporativos**  
-- **Setor**: Tecnologia para Transporte e Logística (GovTech/FinTech)  
-- **Clientes**: Prefeituras, consórcios de ônibus e operadoras privadas em 12 estados brasileiros  
-- **Faturamento**: R$ 50M/ano (2024)  
-- **Equipe**: 120 colaboradores (Engenharia, Dados e Customer Success)  
+- **Setor**: Tecnologia da Informação e Desenvolvimento de Software  
+- **Clientes**: Pequenas, médias e grandes empresas de diversos setores (educação, transporte, saúde, finanças)  
+- **Faturamento**: R$ 8M/ano (2024)  
+- **Equipe**: 40 colaboradores (Desenvolvimento, UX/UI, IA e Suporte)
 
-### **🏆 Diferenciais Estratégicos**  
-| **Área**          | **Inovação PagBuzz**                                                                 |  
-|--------------------|-------------------------------------------------------------------------------------|  
-| **Bilhetagem**     | Único sistema do mercado com **validação offline** (funciona sem internet)          |  
-| **Segurança**      | Criptografia P2PE (Point-to-Point Encryption) e certificação PCI-DSS Nível 1        |  
-| **AI de Suporte**  | Assistente virtual **"Buz Helper"** (resolve 65% dos chamados sem intervenção humana)|  
+---
+
+## **🏆 Diferenciais Estratégicos**  
+| **Área**              | **Soluções InfinityWare**                                                                 |  
+|------------------------|-------------------------------------------------------------------------------------------|  
+| **IA Aplicada**        | Integração com serviços como **OpenAI, IBM Watson e Azure AI**                            |  
+| **Cross-Plataforma**   | Aplicações Web, Desktop e Mobile integradas com arquitetura escalável                     |  
+| **Segurança e LGPD**   | Desenvolvimento 100% aderente à **Lei Geral de Proteção de Dados (LGPD)**                 |  
+| **Atendimento**        | Suporte técnico com **IA para triagem e automação de chamados**, otimizando o tempo de resposta |
 
 ---
 
 ## **🛠️ Produtos e Soluções**  
-### **1. PagBuzz Valid**  
-- **O que faz**: Hardware/software para validação de passes em ônibus.  
+### **1. SmartDesk AI**  
+- **O que faz**: Sistema inteligente de atendimento técnico corporativo.  
 - **Tecnologia**:  
-  - Leitura multicanal (NFC, Cartão, Passe)  
-  - SDK para integração com apps de transporte (ex.: Google Pay)  
+  - Classificação automática de chamados  
+  - Sugerir soluções com base no histórico  
+  - Interface web, desktop e mobile  
+  - Banco de dados em MS SQL Server  
 
-### **2. PagBuzz SupportPro**  
-- **Exclusivo para clientes**: Sistema de chamados com:  
-  - **Triagem automática** por IA (análise de logs em tempo real)  
-  - **Painel de SLA**: Monitoramento de métricas como MTTR (*Mean Time to Repair*)  
-
----
-
-## **🌐 Responsabilidade Social**  
-- **Programa "Transporte Justo"**: Parceria com governos para oferecer **tarifa zero** a idosos e PCDs.  
-- **Redução de fraudes**: Nosso sistema diminuiu em **92%** clonagem de cartões em clientes ativos.  
+### **2. InfinityPulse Analytics**  
+- **Painel de gestão com**:  
+  - Relatórios diários e mensais de performance  
+  - Indicadores de SLA (MTTR, taxa de resolução, priorizações)  
+  - Alertas automáticos para gargalos de atendimento  
 
 ---
 
-## **📞 Contato e Carreira**
--**Comercial**: vendas@pagbuz.com | +55 (11) 4002-8922
-
--**Imprensa**: comunicacao@pagbuz.com
-
--**Trabalhe conosco**: carreiras.pagbuz.com
+## **🌐 Responsabilidade e Ética**  
+- **Privacidade de Dados**: Projetos construídos com base nos princípios da LGPD  
+- **Acessibilidade Digital**: Interfaces acessíveis para todos os perfis de usuários  
+- **Inclusão Tecnológica**: Programas de capacitação em parceria com ONGs locais
 
 ---
 
-## **Acompanhe nosso projeto PAGBUZZ** 
-![bannerPagBuzz](https://github.com/user-attachments/assets/35d68fa0-15ae-4e50-96c3-c222fa8ba572)
-
-**[Link aqui](https://github.com/pim-ads-3/Pim).**
+## **📞 Contato e Carreira**  
+- **Comercial**: contato@infinityware.tech | +55 (12) 4002-6006  
+- **Imprensa**: press@infinityware.tech  
+- **Trabalhe conosco**: carreiras.infinityware.tech
 
 ---
 
+## **🚀 Confira nosso projeto atual**  
+![bannerPagBuzz](https://github.com/user-attachments/assets/bannerPagBuzz-exemplo.png)
 
-## © 2024 Infinity Ware Solutions. Sob licença Apache 2.0.
+**[Acesse o repositório do projeto PagBuzz](https://github.com/seu-repo/pagbuzz)**
+
+---
+
+## © 2024 InfinityWare Soluções Digitais. Sob licença MIT.  
 Consulte LICENSE para detalhes jurídicos.
-
-
-
-
