@@ -17,12 +17,13 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 ---
 
 ## **🏆 Diferenciais Estratégicos**  
-| **Área**              | **Soluções InfinityWare**                                                                 |  
-|------------------------|-------------------------------------------------------------------------------------------|  
-| **IA Aplicada**        | Integração com serviços como **OpenAI, IBM Watson e Azure AI**                            |  
-| **Cross-Plataforma**   | Aplicações Web, Desktop e Mobile integradas com arquitetura escalável                     |  
-| **Segurança e LGPD**   | Desenvolvimento 100% aderente à **Lei Geral de Proteção de Dados (LGPD)**                 |  
+| **Área**               | **Soluções InfinityWare**                                                                       |  
+|------------------------|-------------------------------------------------------------------------------------------------|  
+| **IA Aplicada**        | Integração com serviços como **OpenAI, IBM Watson e Azure AI**                                  |  
+| **Cross-Plataforma**   | Aplicações Web, Desktop e Mobile integradas com arquitetura escalável                           |  
+| **Segurança e LGPD**   | Desenvolvimento 100% aderente à **Lei Geral de Proteção de Dados (LGPD)**                       |  
 | **Atendimento**        | Suporte técnico com **IA para triagem e automação de chamados**, otimizando o tempo de resposta |
+|------------------------|-------------------------------------------------------------------------------------------------|  
 
 ---
 
@@ -60,7 +61,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 ## **🚀 Confira nosso projeto atual**  
 ![pagbuslogo](https://github.com/user-attachments/assets/13f5696f-fd1c-4119-bfb0-73be46a6338b)
 
-  **[Acesse o repositório do projeto PagBuzz](https://github.com/pimIIIunip/PagBus)**
+  **[Acesse o repositório do projeto PagBus](https://github.com/pimIIIunip/PagBus)**
 
 ---
 
