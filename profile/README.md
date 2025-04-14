@@ -58,12 +58,36 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 
 ---
 
-## **🚀 Confira nosso projeto atual**  
+## **🚀 Confira nosso projeto**  
 ![pagbuslogo](https://github.com/user-attachments/assets/13f5696f-fd1c-4119-bfb0-73be46a6338b)
 
   **[Acesse o repositório do projeto PagBus](https://github.com/pimIIIunip/PagBus)**
 
 ---
 
+## **📁Diagramas**
+  [Acesse os diagramas](https://github.com/pimIIIunip/pim/tree/main/diagramas)
+
+---
+
+## **📝Backlog**
+  [Acesse o backlog](https://github.com/pimIIIunip/pim/blob/main/BackLog.md)
+
+---
+
+## **📞Meetings**
+  [Acesse as reuniões](https://github.com/pimIIIunip/pim/blob/main/Meeting.md)
+
+---
+
+## **✅Sprints**
+  [Acesse as sprints](https://github.com/pimIIIunip/pim/blob/main/Sprint.md)
+
+
+
+
+
+
+---
 ## © 2024 InfinityWare Soluções Digitais. Sob licença MIT.  
 Consulte LICENSE para detalhes jurídicos.
