@@ -59,6 +59,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 
 ## **🚀 Confira nosso projeto atual**  
 ![pagbuslogo](https://github.com/user-attachments/assets/13f5696f-fd1c-4119-bfb0-73be46a6338b)
+
   **[Acesse o repositório do projeto PagBuzz](https://github.com/pimIIIunip/PagBus)**
 
 ---
