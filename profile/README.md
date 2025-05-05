@@ -36,7 +36,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 - Redução de fraudes e aumento da fluidez no embarque  
 - Dashboards de acompanhamento para gestores públicos
 
-**[Acesse o repositório do projeto PagBus](https://github.com/INFTYWARE/Pagbus)**
+**[Acesse o repositório do projeto PagBus](https://github.com/pimIIIunip/PagBus)**
 
 ---
 
@@ -47,7 +47,7 @@ Fundada em 2022, a **InfinityWare** é uma empresa de desenvolvimento de softwar
 - Relatórios de SLA, alertas de gargalo e histórico completo  
 - Compatível com LGPD
 
-**[Acesse o repositório do projeto SmartCall](https://github.com/INFTYWARE/SmartCall-Pim-)**
+**[Acesse o repositório do projeto SmartCall](https://github.com/pimIIIunip/SmartCall-Pim-)**
 
 ---
 
